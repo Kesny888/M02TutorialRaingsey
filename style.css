@@ -1,9 +1,10 @@
 body::before {
-    display:block;
+    display: block;
     content: '';
     height: 60px;
-}
+  }
 
+/*Don't account access map*/
 
 @media(min-width: 768px) {
     .news-input {
